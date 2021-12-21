@@ -1,4 +1,8 @@
 change01
 change02
 change03
+<<<<<<< HEAD
 changeOnClone01
+=======
+changeFetch01
+>>>>>>> 8f8ec63e9a551bac897755d86224aa15cc9347de
