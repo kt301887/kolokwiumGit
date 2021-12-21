@@ -1,2 +1,7 @@
 change01
+<<<<<<< HEAD
 changeHotFix01
+=======
+changeBranch01
+changeBranch02
+>>>>>>> prostaWersja
